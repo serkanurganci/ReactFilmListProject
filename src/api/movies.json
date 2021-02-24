@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash",
+      "rating": 6.8,
+      "overview": "This is a wider card with supporting text bwlow as a natural lead-in to additional content",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3aS4VMoMpv7JCUk7XASWlskViO.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arrow",
+      "rating": 6.6,
+      "overview": "This is a wider card with supporting text bwlow as a natural lead-in to additional content",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+    },
+    {
+      "name": "Cars of The Revolution 3",
+      "rating": 7.5,
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWcGP0715ThjyBLUqrLERffcenb.jpg",
+      "overview": "This is a wider card with supporting text bwlow as a natural lead-in to additional content",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "My Father and My Son",
+      "rating": 7.6,
+      "overview": "This is a wider card with supporting text bwlow as a natural lead-in to additional content",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8MZYwUWJhLADpExD2zMj4uINeFM.jpg"
+    },
+    {
+      "name": "Monster Hunter ",
+      "rating": "9.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uwjaCH7PiWrkz7oWJ4fcL3xGrb0.jpg",
+      "overview": "A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+      "id": 6
+    },
+    {
+      "name": "The Little Things 2",
+      "rating": 7.5,
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c7VlGCCgM9GZivKSzBgzuOVxQn7.jpg",
+      "overview": "Deputy Sheriff Joe \"Deke\" Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke's past, uncovering disturbing secrets that could threaten more than his case.A portal transports Lt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+      "id": 7
+    },
+    {
+      "name": "Birds of Prey test",
+      "rating": 7.1,
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+      "id": 8
+    },
+    {
+      "name": "Breach",
+      "rating": "4.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/13B6onhL6FzSN2KaNeQeMML05pS.jpg",
+      "overview": "A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.",
+      "id": 9
+    },
+    {
+      "name": "Ava",
+      "rating": "7.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+      "overview": "A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong",
+      "id": 10
+    },
+    {
+      "name": "To All the Boys: Always and Forever",
+      "rating": "8.0",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zdkJs9j6yKo9di0kjtctM01fSMv.jpg",
+      "overview": "Senior year of high school takes center stage as Lara Jean returns from a family trip to Korea and considers her college plans — with and without Peter.",
+      "id": 11
+    },
+    {
+      "name": "Tenet",
+      "rating": "7.3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+      "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+      "id": 12
+    },
+    {
+      "name": "The Croods: A New Age",
+      "rating": "9.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg",
+      "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+      "id": 13
+    }
+  ]
+}
